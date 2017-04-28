@@ -1,5 +1,5 @@
 body {
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Noto Serif', serif;
 }
 .logo {
   display: block;
@@ -83,7 +83,7 @@ body {
 }
 .end {
   background-color: #F15A29;
-  height: 200px;
+  height: 350px;
 }
 #text1 {
   float: left;
@@ -91,4 +91,30 @@ body {
 .fastfood2 {
   margin: 50px 0px 50px 0px;
   padding: 0px 0px 0px 0px;
+}
+.logo1 {
+
+}
+.endtext {
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
+img.endtext {
+  cursor: grab;
+}
+#endh2 {
+  font-size: 45px;
+  margin-top: 60px;
+  color: white;
+  text-align: center;
+  line-height: inherit;
+}
+.subscribetext {
+  color: white;
+  text-align: center;
+  line-height: 130px;
+}
+.subscribebtn {
+  color: #F15A29;
 }
