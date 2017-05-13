@@ -12,6 +12,7 @@ body {
   background-repeat: no-repeat;
   margin: auto;
   width: auto;
+  background-size: cover;
 }
 .header2 {
 
@@ -49,6 +50,10 @@ body {
   display: block;
   text-align: center;
   line-height: 160px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.breakfast:hover, .lunch:hover, .dinner:hover {
   cursor: grab;
 }
 .lunch {
@@ -58,6 +63,8 @@ body {
   display: block;
   text-align: center;
   line-height: 160px;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .dinner {
   background-image: url(../img/foodtop/dinner.jpg);
@@ -66,6 +73,8 @@ body {
   display: block;
   text-align: center;
   line-height: 160px;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .head {
   color: inherit;
@@ -87,10 +96,21 @@ body {
 }
 #text1 {
   float: left;
+  text-align: left;
+}
+.fastfood {
+  margin: 40px 40px 40px 40px;
 }
 .fastfood2 {
-  margin: 50px 0px 50px 0px;
-  padding: 0px 0px 0px 0px;
+  margin: 50px 0px 0px 30px;
+  padding: 20px 20px 20px 20px;
+  border: solid black thin;
+}
+.food1 {
+
+}
+.food2 {
+  
 }
 .logo1 {
 
